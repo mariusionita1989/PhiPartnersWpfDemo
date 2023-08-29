@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhiPartnersWpfDemo", "PhiPartnersWpfDemo\PhiPartnersWpfDemo.csproj", "{B51D5033-5594-48B3-B91C-2370B39D8BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhiPartnersWpfDemo.Tests", "PhiPartnersWpfDemo.Tests\PhiPartnersWpfDemo.Tests.csproj", "{F92AB38D-52C8-4A1C-91B8-60FD7865193C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51D5033-5594-48B3-B91C-2370B39D8BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51D5033-5594-48B3-B91C-2370B39D8BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51D5033-5594-48B3-B91C-2370B39D8BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51D5033-5594-48B3-B91C-2370B39D8BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92AB38D-52C8-4A1C-91B8-60FD7865193C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92AB38D-52C8-4A1C-91B8-60FD7865193C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92AB38D-52C8-4A1C-91B8-60FD7865193C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92AB38D-52C8-4A1C-91B8-60FD7865193C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7320528-8CD3-49EE-A71D-E5D9B1438E46}
+	EndGlobalSection
+EndGlobal
